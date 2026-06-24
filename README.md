@@ -1,6 +1,7 @@
 # Aadhaar Document OCR Processor
 
-<img width="956" height="977" alt="Screenshot 2026-06-24 152524" src="https://github.com/user-attachments/assets/e760ff2f-9e7b-4914-853d-ebf0f6a4287f" />
+<img width="1536" height="1024" alt="thumbnail" src="https://github.com/user-attachments/assets/8ba2903f-b27e-4dfb-a660-8463f668936a" />
+
 
 
 A web application for automated Aadhaar document processing using YOLOv8 object detection and Tesseract OCR.
